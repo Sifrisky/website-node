@@ -1,4 +1,4 @@
-```jsx
+
 # Mi primera Pagina con Node.js
 
 _Esta pagina web fue diseñada solo con el fin de practicar node.js. y funciona dinamicamente. Se crearon múltiples rutas desde una 
@@ -39,9 +39,8 @@ servidor.
 ```
 npm i nodemon -D 
 ```
-la D es para decir que lo usaremos como dependencias de desarrollo como dependencia
- principal de desarrollo del proyecto no puedo prescindir de ello, pero nodemon no.
- Me servira para cuando despliegue mi aplciacion.
+
+la D es para decir que lo usaremos como dependencias de desarrollo como dependencia principal de desarrollo del proyecto no puedo prescindir de ello, pero nodemon no. Me servira para cuando despliegue mi aplciacion.
 
 ## Ejecutando las pruebas ⚙️
 
@@ -55,9 +54,8 @@ _Realizando pruebas_
 npm run dev
 ```
 
-### Y las pruebas de estilo de codificación ⌨️
+### Pruebas de estilo de codificación ⌨️
 
-_Explica que verifican estas pruebas y por qué_
 
 ```
 Da un ejemplo
@@ -72,6 +70,7 @@ npm install -g now
 ```
 
 Luego en tu consola colocas "now" te pide tu mail. Chequealo y luego haz deploy. Es muy simple!
+
 y no te olvides del gitignore!
 
 ## Construido con 🛠️
@@ -106,6 +105,5 @@ Este proyecto está bajo la Licencia (sifrisky) - mira el archivo [LICENSE.md](L
 * Invita una cerveza 🍺 o un café ☕ a alguien de tu equipo para conversar mas sobre node. 
 * Mil gracias por leerme!🤓.
 
----
+
 ⌨️ con ❤️ por [Sifrisky](https://github.com/Sifrisky) 😊
-```
