@@ -6,6 +6,10 @@ aplicacion de Node.js.
 
 Espero que te diviertas tanto como yo!
 
+## Preview
+![docs](screenshot.png)
+
+*********************************************************************************************************************
 ## Comenzando 🚀
 
 Mira **Deployment** 
@@ -79,7 +83,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [fontAwesome](https://fontawesome.com/) - LPara los iconos
 * [GoogleFonts](https://fonts.google.com/) - Fuente 
-* [Animate.css](https://animate.style/)) - Usado para generar animacion en el form y logo
+* [Animate.css](https://animate.style/) - Usado para generar animacion en el form y logo
 * [Gradientes](https://uigradients.com/) - Usado para generar background
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - framework web Usado para el navbar responsive
 
