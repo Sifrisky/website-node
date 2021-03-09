@@ -22,8 +22,6 @@ para conocer como desplegar el proyecto en el siguiente link.
 
 ### Pre-requisitos 📋
 
-_¿Que cosas necesitas para instalar el software y como instalarlas?_
-
 ```
 npm init  node --yes
 ```
@@ -52,34 +50,20 @@ _Probemos que el servidor funciona enviando un mje por consola_
 
 ### Analice las pruebas end-to-end 🔩
 
-_Realizando pruebas_
-
 ```
 npm run dev
 ```
 
-### Pruebas de estilo de codificación ⌨️
-
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
+### Instalacion ⌨️
 
 ```
 npm install -g now
 ```
-
 Luego en tu consola colocas "now" te pide tu mail. Chequealo y luego haz deploy. Es muy simple!
 
-y no te olvides del gitignore!
+¡no te olvides del gitignore!
 
 ## Construido con 🛠️
-
-_Menciona las herramientas que utilizaste para crear tu proyecto_
 
 * [fontAwesome](https://fontawesome.com/) - LPara los iconos
 * [GoogleFonts](https://fonts.google.com/) - Fuente 
@@ -87,21 +71,9 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 * [Gradientes](https://uigradients.com/) - Usado para generar background
 * [Bootstrap](https://getbootstrap.com/docs/4.5/getting-started/introduction/) - framework web Usado para el navbar responsive
 
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/Sifrisky/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
 ## Autores ✒️
 
 * **Astrid Medina** - * Documentación* - *Diseño e ideas* - Trabajo Inicial y final* - [Sifrisky](https://github.com/Sifrisky.com)
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (sifrisky) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
 ## Expresiones de Gratitud 🎁
 
