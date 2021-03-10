@@ -1,5 +1,5 @@
 
-# Mi primera Pagina con Node.js
+## Mi primera Pagina con Node.js
 
 _Esta pagina web fue diseñada solo con el fin de practicar node.js. y funciona dinamicamente. Se crearon múltiples rutas desde una 
 aplicacion de Node.js. 
@@ -65,7 +65,7 @@ Luego en tu consola colocas "now" te pide tu mail. Chequealo y luego haz deploy.
 
 ## Construido con 🛠️
 
-* [fontAwesome](https://fontawesome.com/) - LPara los iconos
+* [fontAwesome](https://fontawesome.com/) - Para los iconos
 * [GoogleFonts](https://fonts.google.com/) - Fuente 
 * [Animate.css](https://animate.style/) - Usado para generar animacion en el form y logo
 * [Gradientes](https://uigradients.com/) - Usado para generar background
@@ -73,12 +73,10 @@ Luego en tu consola colocas "now" te pide tu mail. Chequealo y luego haz deploy.
 
 ## Autores ✒️
 
-* **Astrid Medina** - * Documentación* - *Diseño e ideas* - Trabajo Inicial y final* - [Sifrisky](https://github.com/Sifrisky.com)
+* **Astrid Medina**  - [Sifrisky](https://github.com/Sifrisky.com)
 
 ## Expresiones de Gratitud 🎁
 
-* ¿Te gusto? comentale a tus amigos Coders! 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien de tu equipo para conversar mas sobre node. 
 * Mil gracias por leerme!🤓.
 
 
