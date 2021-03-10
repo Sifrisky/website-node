@@ -48,7 +48,7 @@ la D es para decir que lo usaremos como dependencias de desarrollo como dependen
 
 _Probemos que el servidor funciona enviando un mje por consola_
 
-### Analice las pruebas end-to-end 🔩
+### Arrancamos el proyecto 🔩
 
 ```
 npm run dev
@@ -75,9 +75,8 @@ Luego en tu consola colocas "now" te pide tu mail. Chequealo y luego haz deploy.
 
 * **Astrid Medina**  - [Sifrisky](https://github.com/Sifrisky.com)
 
-## Expresiones de Gratitud 🎁
 
-* Mil gracias por leerme!🤓.
+* **Mil gracias por leerme!** 🤓 🎁
 
 
-⌨️ con ❤️ por [Sifrisky](https://github.com/Sifrisky) 😊
+⌨️ con mucho 💛 por [Sifrisky](https://github.com/Sifrisky) 🥰
