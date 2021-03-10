@@ -73,10 +73,8 @@ Luego en tu consola colocas "now" te pide tu mail. Chequealo y luego haz deploy.
 
 ## Autores ✒️
 
-**Astrid Medina**  - [Sifrisky](https://github.com/Sifrisky.com)
+
+⌨️ con mucho 💛 por **Astrid Medina**  - [Sifrisky](https://github.com/Sifrisky.com) 🥰
 
 
 **Mil gracias por leerme!** 🤓 🎁
-
-
-⌨️ con mucho 💛 por [Sifrisky](https://github.com/Sifrisky) 🥰
