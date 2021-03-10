@@ -1,7 +1,7 @@
 
 ## Mi primera Pagina con Node.js
 
-_Esta pagina web fue diseñada solo con el fin de practicar node.js. y funciona dinamicamente. Se crearon múltiples rutas desde una 
+Esta pagina web fue diseñada solo con el fin de practicar node.js. y funciona dinamicamente. Se crearon múltiples rutas desde una 
 aplicacion de Node.js. 
 
 Espero que te diviertas tanto como yo!
